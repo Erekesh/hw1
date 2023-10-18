@@ -29,7 +29,7 @@ public class Main {
 
 
         // Задание №4
-        // 1.
+        // . 1.
 
         int b1 = 10;
         int b2 = 5;
