@@ -1,6 +1,6 @@
 public class cicles {
 
-    public static void cicles(String[] args) {
+    public static void main(String[] args) {
         // Task 5.2.4
 
         int number = 12345;

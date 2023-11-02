@@ -1,5 +1,15 @@
 public class conditions {
-    public static void conditions(String[] args) {
+    public static void main(String[] args) {
+        // Задание №2
+        System.out.println("Привет мир, Я изучаю java");
+
+        // Однострочный каментарий
+        /*
+
+        Многострочный каментарий
+
+         */
+
         //Задание №3
         // 1.
        /* String flowersName = "Roses";

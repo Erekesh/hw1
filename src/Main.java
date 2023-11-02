@@ -116,21 +116,6 @@ public class Main {
       System.out.println("firstmin " + firstmin + "  secondmin " + secondmin);
 
       // 6.8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      
    }
 }
